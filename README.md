@@ -1,7 +1,5 @@
 # Security Control Matrix Project
 
-# Security Control Matrix Project
-
 ## Overview
 Enterprise-grade security control mapping and compliance framework optimizing multi-cloud security posture and regulatory compliance.
 

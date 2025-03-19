@@ -1,0 +1,14 @@
+{
+    "defender": {
+        "enabled_services": [
+            "VirtualMachines",
+            "SqlServers",
+            "AppServices",
+            "StorageAccounts"
+        ],
+        "automation": {
+            "remediation_level": "High",
+            "playbooks": ["Isolate-Compromised-Resource"]
+        }
+    }
+}
